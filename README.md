@@ -1,2 +1,3 @@
 # Vendor_Track
-Angular Project for tracking the vendor. 
+ 
+This is an Angular Application to track the Vendor.
