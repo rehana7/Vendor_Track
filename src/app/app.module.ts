@@ -5,12 +5,14 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { TaskComponent } from './task/task.component';
+import { ServeComponent } from './serve/serve.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    TaskComponent
+    TaskComponent,
+    ServeComponent
   ],
   imports: [
     BrowserModule,
