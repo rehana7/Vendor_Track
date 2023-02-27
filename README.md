@@ -26,6 +26,7 @@ ng version
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. 
 
+![Application](https://github.com/rehana7/Vendor_Track/blob/main/Vendor_Track_img1.png)
 
 ## Code scaffolding
 
