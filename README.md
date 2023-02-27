@@ -7,16 +7,26 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. 
 
 ## Environment Setup 
-Need to install the latest version of nodejs 
-'''PowerShell
+Need to install the latest version of nodejs  
+```PowerShell
 node --version
-'''
-We can use Node Package Manager (NPM) to install third-party libraries. Check npm is installed or not
-'npm'
-Installing Angular CLI
-'npm install -g @angular/cli'
-To ensure installation is successful
-'ng version'
+```
+
+We can use Node Package Manager (NPM) to install third-party libraries. Check npm is installed or not 
+```PowerShell
+npm
+```
+
+Installing Angular CLI 
+```PowerShell
+npm install -g @angular/cli
+```
+
+To ensure installation is successful 
+```PowerShell
+ng version
+```
+
 
 ## Code scaffolding
 
