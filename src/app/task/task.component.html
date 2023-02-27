@@ -1,0 +1,24 @@
+<div>
+    <form (submit) = "addtask()">
+        <input type="text"
+         name="inputvalue"
+          placeholder="Enter vendor"
+          [(ngModel)] ="inputvalue" 
+          class="entertask" 
+        /> <br/>
+        <input type="submit" 
+        value ="Add Task"
+        class = "addtask" 
+        
+        />
+    </form>
+    <div *ngFor="let taskname of taskList">
+        <h1 class="taskname">
+           {{taskname}}
+        </h1>
+        <button (click)="deletetask(taskname)" class="deletetask"> Delete </button>
+    </div>
+    
+</div>
+
+
