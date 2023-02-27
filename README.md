@@ -4,7 +4,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. 
+
+## Environment Setup 
+Need to install the latest version of nodejs 
+'node --version'
+We can use Node Package Manager (NPM) to install third-party libraries. Check npm is installed or not
+'npm'
+Installing Angular CLI
+'npm install -g @angular/cli'
+To ensure installation is successful
+'ng version'
 
 ## Code scaffolding
 
