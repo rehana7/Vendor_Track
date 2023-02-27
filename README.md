@@ -8,7 +8,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Environment Setup 
 Need to install the latest version of nodejs 
-'node --version'
+'''PowerShell
+node --version
+'''
 We can use Node Package Manager (NPM) to install third-party libraries. Check npm is installed or not
 'npm'
 Installing Angular CLI
