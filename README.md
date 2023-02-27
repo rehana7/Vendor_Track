@@ -26,8 +26,10 @@ ng version
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. 
 
-![Application](https://github.com/rehana7/Vendor_Track/blob/main/Vendor_Track_img1.png)
-
+![Vendor_Track_img1](https://github.com/rehana7/Vendor_Track/blob/main/Vendor_Track_img1.png)
+![Vendor_Track_img2](https://github.com/rehana7/Vendor_Track/blob/main/Vendor_Track_img2.png)
+![Vendor_Track_img3](https://github.com/rehana7/Vendor_Track/blob/main/Vendor_Track_img3.png)
+![Vendor_Track_img4](https://github.com/rehana7/Vendor_Track/blob/main/Vendor_Track_img4.png)
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
